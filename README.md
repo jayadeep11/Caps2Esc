@@ -25,19 +25,19 @@ This repository contains a simple Bash script to automate the installation and c
 3. Make the script executable:
 
     ```bash
-    chmod +x install_script.sh
+    chmod +x install.sh
     ```
 
 4. Run the script with `sudo`:
 
     ```bash
-    sudo ./install_script.sh
+    sudo ./install.sh
     ```
 
 5. You will be prompted to confirm the installation:
 
     ```bash
-    Would you like to continue with the install (y,n) 
+    Would you like to continue with the install (y,n)
     ```
 
     Press `y` to proceed with the installation or any other key to abort.
