@@ -1,3 +1,7 @@
+# Caps2Esc
+It is a simple program. it will change you system capslock to esc.
+
+
 # Install Script for udevmon Configuration
 
 This repository contains a simple Bash script to automate the installation and configuration of `udevmon`. The script performs the following steps:
